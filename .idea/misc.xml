@@ -3,11 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Projects/Java_labs/Maps/app/src/main/res/layout/activity_maps.xml" value="0.3875" />
+        <entry key="..\:/Projects/Java_labs/Maps/app/src/main/res/drawable/bg_layout.xml" value="0.4036458333333333" />
+        <entry key="..\:/Projects/Java_labs/Maps/app/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/Projects/Java_labs/Maps/app/src/main/res/layout/activity_maps.xml" value="0.22" />
+        <entry key="..\:/Projects/Java_labs/Maps/app/src/main/res/layout/back_layout.xml" value="0.3875" />
+        <entry key="..\:/Projects/Java_labs/Maps/app/src/main/res/layout/backdrop_fragment.xml" value="0.3875" />
+        <entry key="..\:/Projects/Java_labs/Maps/app/src/main/res/layout/bottom_sheet_item.xml" value="0.3875" />
+        <entry key="..\:/Projects/Java_labs/Maps/app/src/main/res/layout/content_main.xml" value="0.33" />
+        <entry key="..\:/Projects/Java_labs/Maps/app/src/main/res/layout/fragment_window.xml" value="0.26979166666666665" />
+        <entry key="..\:/Projects/Java_labs/Maps/app/src/main/res/layout/front_layout.xml" value="0.3875" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
