@@ -1,15 +1,22 @@
 <RelativeLayout android:layout_height="wrap_content"
     android:layout_width="match_parent"
-    android:id="@+id/rl_car"
-    android:padding="10dp"
+    android:id="@+id/rl"
+    android:padding="20dp"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <TextView
+        android:id="@+id/namePlaceView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView"
-        android:textSize="16sp"
-        android:layout_centerInParent="true"/>
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/locPlaceView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="44dp"
+        android:layout_toEndOf="@+id/namePlaceView"
+        android:textSize="16sp" />
 </RelativeLayout>
 
 
